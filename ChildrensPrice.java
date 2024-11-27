@@ -15,6 +15,6 @@ public class ChildrensPrice extends Price {
 
     @Override
     public int getFrequentRenterPoints(int daysRented) {
-        return 1;  
+        return 1; 
     }
 }
